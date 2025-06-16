@@ -28,7 +28,7 @@ A sleek, responsive stopwatch application built with **HTML, CSS, and JavaScript
 ---
 ##  Demo
 
-[🔗 View on linked Pages](https://tinyurl.com/quizzicalminds)
+[🔗 View on linked Pages](https://www.linkedin.com/posts/jamuna-rani-c-a4033931b_internshipexperience-prodigyinfotech-task2-activity-7340262505136435201-O3GF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEHiZABddormHZGY9EhB3oeE8ISTbZCSSs)
 
 
 ---
